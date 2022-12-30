@@ -1,7 +1,7 @@
-# What is Zen Dash?
+# What is Flask Zen Dash?
 Zen Dash, a python package, simplifies the building analytics/BI dashboard process while providing enterprise-level scalability, stability, and performance. You can use FastAPI and Flask to host the application. 
 
-# Why did I build Zen Dash?
+# Why did I build Flask Zen Dash?
 
 There are many dashboarding solutions, like shiny (R, python), Streamlit, and others. I have used all of these solutions. I enjoy building solutions. However, all of these tools and libraries lack one vital point. They are not enterprise-ready solutions. They are fragile and not scalable solutions. So, whenever I built analytics/ BI Dashboards, Even after many bandages, dashboards were delicate and unstable. 
 
@@ -64,5 +64,3 @@ How do we achieve it? After understanding the limitation of the WebSocket, I dec
 
 UI is prebuilt in angular and complies, where you can provide what to render using angular flex and material design. 
 
-# Docs
-https://zen-reportz.github.io/zen_dash/index.html
